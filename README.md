@@ -1,4 +1,4 @@
-# Azure Serverless Capital Markets Data Lake Ingestion Pipeline
+# Azure Capital Markets Pipeline
 
 An automated, end-to-end financial data engineering ingestion pipeline deployed on Microsoft Azure. The architecture streams high-fidelity digital asset market tickers (BTC/ETH to CAD conversions) into an object storage landing zone. It utilizes modern cloud design patterns, including zero-trust identity architectures and automated multi-tier storage lifecycle policies.
 
